@@ -4,6 +4,9 @@
 This project demonstrates the use of **LoRA (Low-Rank Adaptation)** for fine-tuning pre-trained models efficiently. 
 LoRA is a parameter-efficient transfer learning technique that significantly reduces the computational resources and time required for training large-scale models.
 
+
+![Screenshot 2024-11-26 210721](https://github.com/user-attachments/assets/79966d5c-0b3a-4bfd-b6d1-c46b9203f38c)
+
 ## Project Overview
 
 The notebook includes:
@@ -34,7 +37,7 @@ To run this project, ensure you have:
 
 1. Clone this repository and navigate to the project folder:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SaYanZz0/LoRa-FineTuning.git
    cd lora-fine-tuning
    ```
 
